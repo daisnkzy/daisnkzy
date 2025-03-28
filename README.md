@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[startease.dev](startease.dev)
+[startease.dev](https://startease.dev)
 The NuxtJs SaaS boilerplate with everything you need to launch and grow. Build a high-converting marketing funnel and make your first $ really fast.
 
 <!--
