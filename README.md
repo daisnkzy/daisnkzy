@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[startease.dev](startease.dev)
+The NuxtJs SaaS boilerplate with everything you need to launch and grow. Build a high-converting marketing funnel and make your first $ really fast.
+
 <!--
 **daisnkzy/daisnkzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
